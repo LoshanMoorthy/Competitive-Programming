@@ -10,5 +10,7 @@ public class ConvertAStringToAnArray {
         allWords = s.split(" ");
 
         return allWords;
+
+
     }
 }

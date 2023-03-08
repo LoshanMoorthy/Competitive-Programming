@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CodeWars/CodeWars.iml" filepath="$PROJECT_DIR$/CodeWars/CodeWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Competitive-Programming.iml" filepath="$PROJECT_DIR$/.idea/Competitive-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsesProblemSet/CsesProblemSet.iml" filepath="$PROJECT_DIR$/CsesProblemSet/CsesProblemSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kattis/Kattis.iml" filepath="$PROJECT_DIR$/Kattis/Kattis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
     </modules>
   </component>
 </project>
