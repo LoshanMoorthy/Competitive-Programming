@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgoExpert/AlgoExpert.iml" filepath="$PROJECT_DIR$/AlgoExpert/AlgoExpert.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeWars/CodeWars.iml" filepath="$PROJECT_DIR$/CodeWars/CodeWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Competitive-Programming.iml" filepath="$PROJECT_DIR$/.idea/Competitive-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/CsesProblemSet/CsesProblemSet.iml" filepath="$PROJECT_DIR$/CsesProblemSet/CsesProblemSet.iml" />
