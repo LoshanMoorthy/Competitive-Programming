@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/CsesProblemSet/CsesProblemSet.iml" filepath="$PROJECT_DIR$/CsesProblemSet/CsesProblemSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kattis/Kattis.iml" filepath="$PROJECT_DIR$/Kattis/Kattis.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Tasks.iml" filepath="$PROJECT_DIR$/Tasks/Tasks.iml" />
     </modules>
   </component>
 </project>
